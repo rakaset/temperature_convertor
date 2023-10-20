@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  input,
+  button {
+    width: 100px;
+    margin: 5px;
+  }
+  
+  #fahrenheit {
+    background-color: rgb(211, 211, 211);
+  }
+  
